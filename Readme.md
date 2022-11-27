@@ -1,6 +1,6 @@
-# Name of the Project
+# Student-Grade-Generator
 *****
-### Author : Name Date
+### Author : Mugo Joseph Wamiti
 ****
 ## Project Description
 A program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade as follows: 
