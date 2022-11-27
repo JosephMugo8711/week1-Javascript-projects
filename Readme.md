@@ -3,9 +3,9 @@
 ### Author : Name Date
 ****
 ## Project Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+A program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade as follows: 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A > 79, B > 60 to 79, C > 59 to 49, D > 40 to 49, E > less 40.
 ******
 
 ## SCREENSHOTS
