@@ -9,8 +9,10 @@ A > 79, B > 60 to 79, C > 59 to 49, D > 40 to 49, E > less 40.
 ******
 
 ## SCREENSHOTS
-https://github.com/Josephmugo8711/week1-Javascript-projects/blob/main/images/grade.jpg
-- link 2
+![grade](https://user-images.githubusercontent.com/91910681/204238957-1a673ab5-7724-4998-a1ac-843efe1df5ab.jpg)
+
+![speed](https://user-images.githubusercontent.com/91910681/204239014-efd5597c-842b-45b9-a78e-65988dda89f2.jpg)
+
 
 
 ********
