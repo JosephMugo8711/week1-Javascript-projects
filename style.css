@@ -1,0 +1,35 @@
+ #links{
+            margin-top: 0 auto;
+            text-decoration: none;
+            font-weight: bolder;
+            display: flex;
+        }
+        .pic{
+            width: 50%;
+            text-align: center;
+            
+        }
+         li{
+            margin-top: 0 auto;
+            text-decoration: none;
+            text-align: center;
+            list-style-type:none ;
+        }
+        a{
+           text-decoration: none;
+           font-weight: bolder;
+           font-size: xx-large;
+           margin-top: 20%;
+           font-style: inherit;
+        }
+        #all{
+            background-color: aqua;
+        }
+        #intro{
+            text-align: center;
+            font-size: larger;
+            color: aliceblue;
+            font-weight: bolder;
+
+            
+        }
