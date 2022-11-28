@@ -59,7 +59,7 @@ Or you can access the web application directly via this [LINK.](link.com/)
 5. JavaScript
 *****
 ## Contact Information
-* Email : example@gmail.com
+* Email : josephmugo8711@gmail.com
 *****
 ## [License](LICENSE)
 MIT License
