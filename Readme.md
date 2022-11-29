@@ -3,8 +3,11 @@
 ### Author : Mugo Joseph Wamiti
 ****
 ## Project Description
-A program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade as follows: 
+##Project1
+A program that prompts the user to input student marks. The input should be between 0 and 100.
+##project2
 A program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+##project3
 A program that would calculate the Payee Tax, NHIF, NSSF Deductions and net salary.
 ******
 
