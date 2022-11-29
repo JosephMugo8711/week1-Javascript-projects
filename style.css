@@ -1,32 +1,49 @@
- #container{
-            margin-top: 0 auto;
-            text-decoration: none;
-            font-weight: bolder;
-            display: flex;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
 }
-.photo{
-            width: 50%;
-            text-align: center;
-}
-li{
-            margin-top: 0 auto;
-            text-decoration: none;
-            text-align: center;
-            list-style-type:none ;
-}
-a{
-           text-decoration: none;
-           font-weight: bolder;
-           font-size: xx-large;
-           margin-top: 20%;
-           font-style: inherit;
-}
+
 #container{
-            background-color: aqua;
+    background-color: rgb(223, 246, 245);
+    margin-top: ;
 }
 #introduction{
-            text-align: center;
-            font-size: larger;
-            color: aliceblue;
-            font-weight: bolder;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(55, 58, 56);
+    font-weight: 400;
 }
+#container #introduction h1{
+    color: rgb(55, 58, 56);
+}
+ #folders{
+    margin-top: 0 auto;
+    text-decoration: none;
+    font-weight: 500;
+    display: flex;
+    margin-left: 120px;
+
+            
+}
+.photo{
+    width: 50%;
+    text-align: center;
+            
+}
+li{
+    margin-top: 0 auto;
+    text-decoration: none;
+    text-align: center;
+    list-style-type:none ;
+            
+}
+a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 30px;
+    margin-top: 20%;
+    font-style: ;
+}
+
+

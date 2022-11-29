@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    height: 80vh;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #2f3d36;
+}
+.container{
+     width: 50%;
+     color: black;
+     background: #c7dcd1;
+    
+}
+.container h1{
+    margin-left: 150px;
+    font-weight: 500;
+}
+input{
+    border: none;
+    display: block;
+    text-align: center;
+    max-width: 0 auto;
+    margin-top: 2rem;
+    padding: 1rem;
+}
+#salaryForm{
+    margin-left: 200px ;
+
+}
+.button{
+    background: rgb(31, 7, 56);
+    color: white;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: .5rem;
+}
+.myOutput{
+    margin-left: 50px;
+    padding: 20PX;
+}
+/* #button{
+    background: rgb(31, 7, 56);
+    color: white;
+}
+#label{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 2em;
+}
+#labels{
+    display:flex;
+    margin: 40px;
+    font-weight: 400;
+    margin-left: 200px;
+}
+.salary{
+    margin: 20px;
+}
+.allowance{
+    margin: 20px;
+}
+
+

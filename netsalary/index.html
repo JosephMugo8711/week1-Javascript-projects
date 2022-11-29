@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Net salary</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Net Salary Calculator</h1>
+        <form id="salaryForm" action="#">
+            <div class="salary">
+                <input type="number" name="salary" size="24" id="basicSalary" placeholder="Enter Basic Salary" required/>
+                <input type="number"  name="allowance" size="24" id="allowance" placeholder="Enter your allowance" required/>
+                <button class="button" type="submit">Calculate</button>
+            </div>
+
+            <div class="myOutput">
+                <p id="nssf">NSSF</p>
+                <P id="paye">PAYEE</P>
+                <p id="nhif">NHIF</p>
+                <P id="mynet">Net Salary</P>
+            </div>
+
+        </form>
+
+    </div>
+    <script src="./index.js"></script>
+</body>
+</html>
