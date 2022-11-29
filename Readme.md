@@ -13,6 +13,9 @@ A > 79, B > 60 to 79, C > 59 to 49, D > 40 to 49, E > less 40.
 
 ![speed](https://user-images.githubusercontent.com/91910681/204239014-efd5597c-842b-45b9-a78e-65988dda89f2.jpg)
 
+![net](https://user-images.githubusercontent.com/91910681/204556883-702c845e-2de9-41bc-8747-9737f62c4c5d.jpg)
+
+
 
 
 ********
